@@ -8,11 +8,11 @@ A discord bot developed by me
 
 ## ☕ How i made?
 
-Well, this bot is written in python for source code and queries you can contact me(from my github's profile's readme). As a school student obviously i've to manage my time to work with it.
+Well, this bot is written in python with py-cord. As a school student i've to manage my time to work with it.
 
-## ✨ You can help me
+## ✨ Why to use it
 
-You can suggest me commands,give me some source code and much-much more.
+Just use or i will kill you 😊.
 
 
 
